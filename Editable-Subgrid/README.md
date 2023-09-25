@@ -1,4 +1,4 @@
 #Editable-Subgrid
-![Preview](./assets/preview.png)  
+![Preview](https://raw.githubusercontent.com/365ConnectCommunity/sample-solutions/main/Editable-Subgrid/assets/screenshot.png)  
 
 
